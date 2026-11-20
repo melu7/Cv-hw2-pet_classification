@@ -1,0 +1,9 @@
+# Versions used for the reported results (Google Colab, Tesla T4 GPU)
+torch==2.14.1
+torchvision==0.29.1
+scikit-learn==1.6.1
+numpy==2.4.6
+# Not pinned (use the versions that come with Colab); see results/environment.txt for the exact ones
+pandas
+matplotlib
+joblib
