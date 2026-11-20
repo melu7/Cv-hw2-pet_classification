@@ -1,0 +1,10 @@
+Python: 3.13.16 (main, Oct  1 2026, 15:40:24) [GCC 13.3.0]
+PyTorch: 2.14.1+cu130
+TorchVision: 0.29.1+cu130
+scikit-learn: 1.6.1
+NumPy: 2.4.6
+Pandas: 2.2.3
+GPU available: True
+GPU name: Tesla T4
+Random seed: 42
+Deterministic algorithms: enabled with warn_only=True (cudnn.deterministic=True, benchmark=False)

@@ -1,0 +1,18 @@
+{
+  "feature_extraction_time_sec": 39.73044729232788,
+  "feature_dim": 576,
+  "classifiers": {
+    "logistic_regression": {
+      "C": 0.01,
+      "train_acc": 0.9881114130434783,
+      "val_acc": 0.876358695652174,
+      "fit_time_sec": 4.116899728775024
+    },
+    "linear_svm": {
+      "C": 0.01,
+      "train_acc": 0.9989809782608695,
+      "val_acc": 0.875,
+      "fit_time_sec": 12.482942581176758
+    }
+  }
+}

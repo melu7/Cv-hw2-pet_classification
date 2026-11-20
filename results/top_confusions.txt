@@ -1,0 +1,27 @@
+Full fine-tuning: top 5 confusions (true -> predicted)
+  Chihuahua -> Shiba Inu: 29 images
+  American Pit Bull Terrier -> Staffordshire Bull Terrier: 22 images
+  Birman -> Ragdoll: 16 images
+  Great Pyrenees -> Samoyed: 14 images
+  American Pit Bull Terrier -> American Bulldog: 14 images
+
+Classifier-head training: top 5 confusions (true -> predicted)
+  American Pit Bull Terrier -> Staffordshire Bull Terrier: 48 images
+  Birman -> Ragdoll: 23 images
+  American Bulldog -> Staffordshire Bull Terrier: 15 images
+  Russian Blue -> British Shorthair: 13 images
+  Maine Coon -> Bengal: 12 images
+
+Features + logistic regression: top 5 confusions (true -> predicted)
+  American Pit Bull Terrier -> Staffordshire Bull Terrier: 18 images
+  Ragdoll -> Birman: 15 images
+  Birman -> Ragdoll: 15 images
+  American Pit Bull Terrier -> American Bulldog: 14 images
+  English Cocker Spaniel -> English Setter: 13 images
+
+Features + linear SVM: top 5 confusions (true -> predicted)
+  American Pit Bull Terrier -> American Bulldog: 17 images
+  Ragdoll -> Birman: 14 images
+  Staffordshire Bull Terrier -> American Bulldog: 12 images
+  Siamese -> Birman: 12 images
+  Staffordshire Bull Terrier -> American Pit Bull Terrier: 11 images
